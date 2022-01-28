@@ -25,9 +25,11 @@ body {
 /*---- media queries pantalla -----*/
 
 @media (max-width:768px){
-    #intro { 
+    #inicio { 
         width:90% !important;
     }
     
 }
+
+
 
