@@ -1,4 +1,38 @@
 body {
-    background: tomato ; 
-
+    background-color: rgb(245, 118, 96);
 }
+/*--------------------------------------*/
+
+#menu li > a {
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+}
+
+#menu form > button {
+    font-size: 1em;
+    font-weight: bold;
+  
+}
+
+
+/*-----IMAGENES---------*/
+
+.carousel-inner {
+    max-height: 39rem;
+}
+
+/*---- media queries pantalla -----*/
+
+@media (max-width:768px){
+    #intro { 
+        width:90% !important;
+    }
+}
+
+/* ///////////////////////////////
+
+index 2
+
+///////////////////*
+
