@@ -1,1 +1,5 @@
-//alert("hola");
+
+
+const subscribed = () => {
+    alert(`Bienvenido!!`);
+}
