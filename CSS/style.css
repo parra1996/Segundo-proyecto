@@ -31,5 +31,8 @@ body {
     
 }
 
+#botoncitos:hover {
+    background-color: black !important;
 
-
+    transition: 2s;
+}
